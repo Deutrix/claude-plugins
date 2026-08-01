@@ -17,7 +17,7 @@ HTTPS needs no credentials at all.
 
 | Plugin | What it does |
 |---|---|
-| [`ccatlas`](https://github.com/Deutrix/ccatlas) | Inventory, freshness, usage and portability for your Claude Code extensions. Finds stale pins that `/plugin update` reports as up to date. |
+| [`ccatlas`](https://github.com/Deutrix/ccatlas) | See what your Claude Code extensions cost you in context, what you never use, and which updates `/plugin update` silently misses. |
 
 ```
 /plugin install ccatlas@deutrix
